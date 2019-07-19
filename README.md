@@ -1,3 +1,9 @@
+## To start 
+
+Start server: /server `npm start`
+Start client: / `npm start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
